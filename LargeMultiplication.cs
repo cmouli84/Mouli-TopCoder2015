@@ -137,7 +137,7 @@ namespace TopCoder2015
 		}
 		
 		
-		public static void Main(string[] args)
+		public static void LargeMultiplyMain(string[] args)
 		{
 			Console.WriteLine("Hello World!");
 			
