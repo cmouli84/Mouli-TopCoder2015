@@ -64,7 +64,7 @@ namespace TopCoder2015
 			return string.Empty;			
 		}
 		
-		public static void Main(string[] args)
+		public static void ABCMain(string[] args)
 		{
 			Console.WriteLine(new ABC().createString(15, 36));
 		}
