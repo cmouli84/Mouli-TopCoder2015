@@ -75,7 +75,7 @@ namespace TopCoder2015
 			return currentLength;
 		}
 		
-		public static void Main(string[] args)
+		public static void ABCPathMain(string[] args)
 		{
 			var strArray = new []{"AMNOPA", "ALEFQR", "KDABGS", "AJCHUT", "AAIWVA", "AZYXAA" };
 			Console.WriteLine(new ABCPath().length(strArray));
