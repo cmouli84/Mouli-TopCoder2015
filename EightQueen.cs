@@ -85,7 +85,7 @@ namespace TopCoder2015
 			return queenPosition;
 		}
 		
-		public static void Main(string[] args)
+		public static void QueenMain(string[] args)
 		{
 			var queenPosition = new int[0,2];
 			queenPosition = new EightQueen().FindQueenPosition(queenPosition);

@@ -51,6 +51,7 @@
     <Compile Include="ABC.cs" />
     <Compile Include="ABCPath.cs" />
     <Compile Include="EightQueen.cs" />
+    <Compile Include="KnightTraversal.cs" />
     <Compile Include="LargeMultiplication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
